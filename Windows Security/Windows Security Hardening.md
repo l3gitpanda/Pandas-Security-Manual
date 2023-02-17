@@ -1,15 +1,16 @@
 # Users and groups:
 ### Tools:
-- microsoft management console #mmc - can be used for most windows admin tools  
+- **Microsoft Management Console** #mmc - can be used for most windows admin tools  
 	- snap ins: file>add snap ins
 	- win + r mmc
-- **local security policy** #lsp - windows policy changing and implementation
-- **process explorer** #procexp - more detailed task manager 
+- **Local Security Policy** #lsp - windows policy changing and implementation
+- **Process Explorer** #procexp - more detailed task manager 
 	- https://download.sysinternals.com/files/ProcessExplorer.zip
 - **Revo Uninstaller** #revo - powerful uninstaller used for logging and removing traces
 	- https://download.revouninstaller.com/download/RevoUninstaller_Portable.zip
-- **network miner** - (not needed mostly for just network logging see #netstat for other methods)
+- **Network Miner** - (not needed mostly for just network logging see #netstat for other methods)
 	- https://www.netresec.com/?download=NetworkMiner
+- 
 
 ### Update Passwords: #mmc > local users and groups
 - Max enforce password history
