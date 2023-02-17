@@ -98,5 +98,6 @@ Things to watch out for:
 		- to disable (not delete) a user net username /active:yes
 	- net localgroup to view all groups in system
 		- net localgroup administrators will show all users with administrator group
-	- net share 
+	- net share to manage network storage shares
+		- net share sharename /del to delete shares. 
 	- 
