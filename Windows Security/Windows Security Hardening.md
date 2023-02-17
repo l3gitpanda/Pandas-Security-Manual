@@ -51,7 +51,8 @@
 		- maybe if we set strong passwords it would waste red team time if they try to brute force without lockout threshold?? just a weird thought lol
 - Task Scheduler
 	- make sure there are no weird unnecessary tasks
-	- 
+	- triggers and actions help with categorizing 
+	- no description = investigate further
 
 
 # Application Security
