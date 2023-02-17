@@ -67,6 +67,7 @@ Things to watch out for:
 - Applications changing names
 - Check cpu times
 - install applications needed using ninite
+- use dism and sfc /scannow
 # Network Security
 - Turn Firewalls on
 - emergency: set firewall to block incomming and outgoing by default and then start blocking
@@ -89,3 +90,5 @@ Things to watch out for:
 - Networking
 	-  ipconfig /all to show all interfaces info
 	- ipconfig /flushdns to flush dns
+		- Useful if dns cache is poisoned or changed
+- User Manag
