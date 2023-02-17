@@ -10,7 +10,7 @@
 	- https://download.revouninstaller.com/download/RevoUninstaller_Portable.zip
 - **Network Miner** - (not needed mostly for just network logging see #netstat for other methods)
 	- https://www.netresec.com/?download=NetworkMiner
-- 
+- Windows Services 
 
 ### Update Passwords: #mmc > local users and groups
 - Max enforce password history
@@ -57,4 +57,5 @@
 # Network Security
 - Turn Firewalls on
 - emergency: set firewall to block incomming and outgoing by default and then start blocking
+- Make sure that 
 - 
