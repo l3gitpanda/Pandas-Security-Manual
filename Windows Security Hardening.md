@@ -12,3 +12,4 @@
 ### Lower Attack Surface:
 - Limit Administrator Accounts 
 - Remove unnecessary accounts 
+- Update passwords #mmc > 
