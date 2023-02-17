@@ -74,8 +74,8 @@ Things to watch out for:
 - Make sure that firewall service is up if issues occur. 
 - Configure/Clean Internet Properties
 - **DISABLE REMOTE ACCESS** 
-	- windows key > remote desktop settings
-
+	- control panel > system and security > allow remote access (just a config menu)
+	- windows key search: remote desktop settings
 
 
 # Infection types:
