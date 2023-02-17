@@ -54,6 +54,8 @@
 - Update Windows
 - Update applications 
 	- winget upgrade --all
+- Make sure important services are on 
+- Remove/shutdown unnecessary services
 
 # Network Security
 - Turn Firewalls on
