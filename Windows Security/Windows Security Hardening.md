@@ -66,7 +66,7 @@ Things to watch out for:
 - Applications appearing an reappearing 
 - Applications changing names
 - Check cpu times
-- 
+- install applications needed using ninite
 # Network Security
 - Turn Firewalls on
 - emergency: set firewall to block incomming and outgoing by default and then start blocking
