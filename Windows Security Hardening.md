@@ -29,4 +29,4 @@
 - Secure Default Accounts (User/Admin Accounts)
 	- change passwords
 	- change usernames
-	- 
+	- configure properties
