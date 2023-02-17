@@ -13,6 +13,7 @@
 ### Lower Attack Surface #mmc: 
 - Manage User Roles 
 	- #mmc > computer management > local users and groups > Users >  {User} properties > Member of
+		- Everyone should be either admin or user 
 
 
 - Remove unnecessary accounts  
