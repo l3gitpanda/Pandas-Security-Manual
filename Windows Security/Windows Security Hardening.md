@@ -49,10 +49,11 @@
 	- #lsp > Account Policies > Account Lockout Policy > Account lockout threshold 
 		- 30 5 30?
 		- maybe if we set strong passwords it would waste red team time if they try to brute force without lockout threshold?? just a weird thought lol
-- Task Scheduler
+- Clean Task Scheduler
 	- make sure there are no weird unnecessary tasks
 	- triggers and actions help with categorizing 
 	- no description = investigate further
+- Clean Services
 
 
 # Application Security
@@ -62,8 +63,7 @@
 - Update Windows
 - Update applications 
 	- winget upgrade --all
-- Make sure important services are on 
-- Remove/shutdown unnecessary services
+
 - Disable Telnet
 	- replace with ssh if needed
 - Remove Windows Gadget Platform
