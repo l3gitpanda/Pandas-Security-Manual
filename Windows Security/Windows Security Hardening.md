@@ -11,7 +11,7 @@
 - **Network Miner** - (not needed mostly for just network logging see #netstat for other methods)
 	- https://www.netresec.com/?download=NetworkMiner
 - Windows Services #winser - for managing windows services
-	- 
+- Malwarebytes #malbyte - 
 
 ### Update Passwords: #mmc > local users and groups
 - Max enforce password history
