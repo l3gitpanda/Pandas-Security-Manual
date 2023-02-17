@@ -64,6 +64,7 @@
 - Make sure that firewall service is up if issues occur. 
 
 
+
 # Infection types:
 
 - **Appender Infection** – The virus is at the end of the program, eventually executing when the end of the file is executed
