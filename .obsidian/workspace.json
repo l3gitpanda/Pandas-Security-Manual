@@ -110,6 +110,17 @@
             }
           },
           {
+            "id": "f83dc6188694dd1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "766cf60baa636316",
             "type": "leaf",
             "state": {
@@ -118,17 +129,6 @@
                 "file": "Windows Security/Windows Security Hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f83dc6188694dd1a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -142,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
