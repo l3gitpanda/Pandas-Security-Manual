@@ -11,10 +11,8 @@
             "id": "0d71f922b2ed7480",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d71f922b2ed7480",
+  "active": "a07a7c966320541b",
   "lastOpenFiles": [
     "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
     "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
