@@ -102,6 +102,8 @@ Things to watch out for:
 			- **-a** displays all tcp connections with tcp and udp ports open
 			- **-n** displays active tcp connections but the port numbers and addresses are expresse with numbers
 			- **-o** displays the active tcp connection while also displaying the PID
+			- **-p** displays the protocol
+				- eg netstat -p tcp for tcp connections
 			- use all 3 together with -ano
 - **User Management**:
 	- **net user** to manage users on machine
