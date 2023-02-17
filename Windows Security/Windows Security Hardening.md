@@ -89,7 +89,8 @@ Things to watch out for:
 	- you can echo variables to easily see them
 	- **hostname** = find hostname
 - Networking:
-	-  **netsh advfirewall reset** to reset firewall 
+	-  **netsh advfirewall reset** to reset firewall to default
+		- usage of turning on firewall: netsh advfirewall set currentprofile state on
 	- **ipconfig /all** to show all interfaces info
 	- **ipconfig /flushdns** to flush dns
 		- Useful if dns cache is poisoned or changed
