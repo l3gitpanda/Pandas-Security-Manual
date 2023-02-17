@@ -105,4 +105,5 @@ Things to watch out for:
 		- net share sharename /del to delete shares.  
 	- **net accounts**
 		- Usage: net accounts /minpwlen:8 /maxpwage:90 /minpwage:15 /uniquepw:24
-	- net use 
+	- **net use** connect to any share using ip, name of the share and user/password of system trying to access. 
+		- usage: 
