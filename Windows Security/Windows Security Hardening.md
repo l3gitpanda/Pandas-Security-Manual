@@ -79,3 +79,6 @@ Things to watch out for:
 - **Appender Infection** – The virus is at the end of the program, eventually executing when the end of the file is executed
 - **Swiss cheese Infection** – This is when the virus is injected into various places of the program. Anytime a specific item is executed (and it is infected), it will execute the viruses code.
 - **Split Infection** – The virus is split into various parts and proceeds to be stored in various areas, when executed, the virus will switch to different places, executing the code.
+
+# Command Line Tips:
+- ">"
