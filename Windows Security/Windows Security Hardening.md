@@ -82,7 +82,8 @@ Things to watch out for:
 
 # Command Line Tips:
 - General
-	- = outputs to something
+	- > outputs to something
 	- findstr = grep
 	- tasklist = task info
-	- 
+	- you can echo variables to easily see them
+	- ipconfig /all for full network
