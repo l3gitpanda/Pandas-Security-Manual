@@ -58,7 +58,9 @@
 - Make sure important services are on 
 - Remove/shutdown unnecessary services
 - Disable Telnet
+	- replace with ssh if needed
 - Remove Windows Gadget Platform
+	- Nothing full trust
 - Check startup applications
 Things to watch out for: 
 - Applications appearing an reappearing 
