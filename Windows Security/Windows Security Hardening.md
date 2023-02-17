@@ -54,4 +54,6 @@
 	- winget upgrade --all
 
 # Network Security
+- Turn Firewalls on
+- emergency: set firewall to block incomming and outgoing by default and then start blocking
 - 
