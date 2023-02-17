@@ -27,6 +27,9 @@
 		- disable before delete (just in case)
 
 - Secure Default Accounts (User/Admin Accounts)
-	- change passwords
+	- change/set passwords
 	- change usernames
 	- configure properties
+	- disable
+
+- 
