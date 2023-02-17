@@ -74,7 +74,7 @@ Things to watch out for:
 - Make sure that firewall service is up if issues occur. 
 - Configure/Clean Internet Properties
 - **DISABLE REMOTE ACCESS** 
-	- control panel > system and security > system
+	- windows key > remote desktop settings
 
 
 
