@@ -7,6 +7,7 @@
 - process explorer #procexp - more detailed task manager 
 	- https://download.sysinternals.com/files/ProcessExplorer.zip
 - Revo Uninstaller #revo - powerful uninstaller used for logging and removing traces
+	- https://download.revouninstaller.com/download/RevoUninstaller_Portable.zip
 - network miner - (not needed mostly for just network logging see #netstat for other methods)
 	- https://www.netresec.com/?download=NetworkMiner
 
