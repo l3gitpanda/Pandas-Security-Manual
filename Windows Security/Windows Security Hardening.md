@@ -88,7 +88,7 @@ Things to watch out for:
 	- **tasklist** = task info
 	- you can echo variables to easily see them
 	- **hostname** = find hostname
-- Networking:
+- **Networking**:
 	-  **netsh advfirewall reset** to reset firewall to default
 		- usage of turning on firewall: netsh advfirewall set currentprofile state on
 	- **ipconfig /all** to show all interfaces info
