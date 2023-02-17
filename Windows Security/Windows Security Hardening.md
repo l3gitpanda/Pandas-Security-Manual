@@ -106,4 +106,5 @@ Things to watch out for:
 	- **net accounts**
 		- Usage: net accounts /minpwlen:8 /maxpwage:90 /minpwage:15 /uniquepw:24
 	- **net use** connect to any share using ip, name of the share and user/password of system trying to access. 
-		- usage: 
+		- usage: net use C: \\192.168.0.1\C$
+			- C$ is share trying to access
