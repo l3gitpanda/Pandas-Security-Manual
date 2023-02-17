@@ -11,11 +11,9 @@
             "id": "0d71f922b2ed7480",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
-                "mode": "source",
-                "source": false
+                "file": "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
+                "file": "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
+                "file": "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md"
+                "file": "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf"
               }
             }
           }
@@ -159,6 +157,7 @@
   },
   "active": "0d71f922b2ed7480",
   "lastOpenFiles": [
+    "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
     "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
     "Windows Security/Windows Security Hardening.md",
     "Windows Security/daniel_plaza_intro_to_sys_hardening_windows_v1_0.pdf",
