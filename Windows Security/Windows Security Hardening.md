@@ -57,9 +57,11 @@
 	- winget upgrade --all
 - Make sure important services are on 
 - Remove/shutdown unnecessary services
+- Check startup applications
 Things to watch out for: 
 - Applications appearing an reappearing 
 - Applications changing names
+- Check cpu times
 - 
 # Network Security
 - Turn Firewalls on
