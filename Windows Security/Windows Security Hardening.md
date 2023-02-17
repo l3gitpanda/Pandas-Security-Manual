@@ -59,6 +59,7 @@
 - Remove/shutdown unnecessary services
 Things to watch out for: 
 - Applications appearing an reappearing 
+- Applications changing names
 - 
 # Network Security
 - Turn Firewalls on
