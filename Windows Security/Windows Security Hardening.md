@@ -77,6 +77,7 @@ Things to watch out for:
 	- control panel > system and security > allow remote access (just a config menu)
 	- windows key search: remote desktop settings
 	- disable services related #mmc
+	- r
 
 
 # Infection types:
