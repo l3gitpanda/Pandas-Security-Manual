@@ -89,10 +89,12 @@ Things to watch out for:
 	- you can echo variables to easily see them
 	- hostname = find hostname
 - Networking:
-	-  ipconfig /all to show all interfaces info
-	- ipconfig /flushdns to flush dns
+	-  **ipconfig /all** to show all interfaces info
+	- **ipconfig /flushdns** to flush dns
 		- Useful if dns cache is poisoned or changed
-	- nslookup for dns info
+	- **nslookup** for dns info
+	- **net sessions** to view local computer connections (KEEP THIS ALWAYS OPEN AND DISCONNECT ANYTHING NOT AUTHORIZED)
+		- net session \\computername /del to delete a session
 - User Management:
 	- net user to manage users on machine
 		- to add user: net user username password /add
@@ -100,6 +102,5 @@ Things to watch out for:
 	- net localgroup to view all groups in system
 		- net localgroup administrators will show all users with administrator group
 	- net share to manage network storage shares
-		- net share sharename /del to delete shares. 
-	- net sessions to view local computer connections (KEEP THIS ALWAYS OPEN AND DISCONNECT A)
-		- net session \\computername /del to delete a session 
+		- net share sharename /del to delete shares.  
+	- net accounts
