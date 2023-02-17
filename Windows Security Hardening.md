@@ -4,7 +4,7 @@
 	- snap ins: file>add snap ins
 - local security policy #lsp - windows policy changing and implementation
 
-### Passwords: #mmc 
+### Passwords: #mmc > local users and groups
 - Max enforce password history
 - Min password age: 15 days
 - max password age: 45
