@@ -57,7 +57,8 @@
 	- winget upgrade --all
 - Make sure important services are on 
 - Remove/shutdown unnecessary services
-- Disable/Remove Telnet and Windows Gadget Platform
+- Disable Telnet
+- Remove Windows Gadget Platform
 - Check startup applications
 Things to watch out for: 
 - Applications appearing an reappearing 
