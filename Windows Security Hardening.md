@@ -43,5 +43,6 @@
 
 # Application Security
 
-- Remove unneeded software 
-- Update
+- Remove unneeded software
+- Update applications - winget upgrade --all
+- 
