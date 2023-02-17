@@ -95,5 +95,8 @@ Things to watch out for:
 - User Management:
 	- net user to manage users on machine
 		- to add user: net user username password /add
-		- to disable (not delete) a user net user  
+		- to disable (not delete) a user net username /active:yes
+	- net localgroup to view all groups in system
+		- net localgroup administrators will show all users with administrator group
+	- net share 
 	- 
