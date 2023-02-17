@@ -6,9 +6,9 @@
 - local security policy #lsp - windows policy changing and implementation
 - process explorer #procexp - more detailed task manager 
 	- https://download.sysinternals.com/files/ProcessExplorer.zip
-- 
+- Revo Uninstaller #revo - powerful uninstaller used for logging and removing traces
 - network miner - (not needed mostly for just network logging see #netstat for other methods)
-	- 
+	- https://www.netresec.com/?download=NetworkMiner
 
 ### Update Passwords: #mmc > local users and groups
 - Max enforce password history
@@ -47,7 +47,7 @@
 # Application Security
 
 - Remove unneeded software 
-	- use #rev
+	- use #revo to uninstall
 - Update applications 
 	- winget upgrade --all
 - 
