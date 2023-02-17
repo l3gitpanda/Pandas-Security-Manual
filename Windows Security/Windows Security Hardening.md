@@ -102,13 +102,14 @@ Things to watch out for:
 		- **netstat** (seconds) to have the netstat auto update
 			- eg netstat 5
 			- eg with flags: netstat –ano –p tcp 5
-		- Flags:
+		- **Flags:**
 			- **-a** displays all tcp connections with tcp and udp ports open
 			- **-n** displays active tcp connections but the port numbers and addresses are expresse with numbers
 			- **-o** displays the active tcp connection while also displaying the PID
 			- **-p** displays the protocol
 				- eg netstat -p tcp for tcp connections
 			- use all 3 together with -ano
+	- Configure/Clean Internet Properties
 - **User Management**:
 	- **net user** to manage users on machine
 		- to add user: net user username password /add
