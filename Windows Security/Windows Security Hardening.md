@@ -52,4 +52,6 @@
 - Update Windows
 - Update applications 
 	- winget upgrade --all
+
+# Network Security
 - 
