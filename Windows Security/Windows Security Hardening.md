@@ -57,7 +57,9 @@
 	- winget upgrade --all
 - Make sure important services are on 
 - Remove/shutdown unnecessary services
-
+Things to watch out for: 
+- Applications appearing an reappearing 
+- 
 # Network Security
 - Turn Firewalls on
 - emergency: set firewall to block incomming and outgoing by default and then start blocking
