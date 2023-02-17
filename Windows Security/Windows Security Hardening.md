@@ -86,4 +86,6 @@ Things to watch out for:
 	- findstr = grep
 	- tasklist = task info
 	- you can echo variables to easily see them
-	- ipconfig /all for full network
+- Networking
+	-  ipconfig /all to show all interfaces info
+	- ipconfig /flushdns to flush dns
