@@ -5,7 +5,6 @@
 	- win + r mmc
 - **Event Viewer** #evntviwr - used for viewing windows logs (security category is important) 
 - **Task Scheduler** #tskschdlr -  execute applications/services/commands at certain times or events
-	- make sure they are somewhat secured
 - **Local Security Policy** #lsp - windows policy changing and implementation
 - **Process Explorer** #procexp - more detailed task manager 
 	- https://download.sysinternals.com/files/ProcessExplorer.zip
@@ -49,7 +48,10 @@
 - Account lockout threshold
 	- #lsp > Account Policies > Account Lockout Policy > Account lockout threshold 
 		- 30 5 30?
-		- maybe if we set strong passwords it would waste red team time if they try to brute force without lockout threshold?? just a weird thought lol\
+		- maybe if we set strong passwords it would waste red team time if they try to brute force without lockout threshold?? just a weird thought lol
+- Task Scheduler
+	- make sure there are no weird unnecessary tasks
+	- 
 
 
 # Application Security
