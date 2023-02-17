@@ -83,11 +83,11 @@ Things to watch out for:
 
 # Command Line Tips:
 - General:
-	- > outputs to something
-	- findstr = grep
-	- tasklist = task info
+	- **>** outputs to something
+	- **findstr** = grep
+	- **tasklist** = task info
 	- you can echo variables to easily see them
-	- hostname = find hostname
+	- **hostname** = find hostname
 - Networking:
 	-  **ipconfig /all** to show all interfaces info
 	- **ipconfig /flushdns** to flush dns
@@ -96,11 +96,11 @@ Things to watch out for:
 	- **net sessions** to view local computer connections (KEEP THIS ALWAYS OPEN AND DISCONNECT ANYTHING NOT AUTHORIZED)
 		- net session \\computername /del to delete a session
 - User Management:
-	- net user to manage users on machine
+	- **net user** to manage users on machine
 		- to add user: net user username password /add
 		- to disable (not delete) a user net username /active:yes
-	- net localgroup to view all groups in system
+	- **net localgroup** to view all groups in system
 		- net localgroup administrators will show all users with administrator group
-	- net share to manage network storage shares
+	- **net share** to manage network storage shares
 		- net share sharename /del to delete shares.  
-	- net accounts
+	- **net accounts**
