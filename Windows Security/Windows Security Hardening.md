@@ -95,7 +95,7 @@ Things to watch out for:
 	- **ipconfig /flushdns** to flush dns
 		- Useful if dns cache is poisoned or changed
 	- **nslookup** for dns info
-	- **net sessions** to view local computer connections (KEEP THIS ALWAYS OPEN AND DISCONNECT ANYTHING NOT AUTHORIZED)
+	- **net sessions** to view local computer connections (DISCONNECT ANYTHING NOT AUTHORIZED)
 		- net session \\computername /del to delete a session
 	- **netstat** used to view network statistics
 		- **netstat** (seconds) to have the netstat auto update
