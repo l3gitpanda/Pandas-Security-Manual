@@ -5,7 +5,7 @@
 	- win + r mmc
 - local security policy #lsp - windows policy changing and implementation
 - process explorer #procexp - more detailed task manager
-- network miner - 
+- network miner - (not needed mostly for just network logging see #netstat for other methods)
 
 ### Update Passwords: #mmc > local users and groups
 - Max enforce password history
