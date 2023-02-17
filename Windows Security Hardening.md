@@ -26,5 +26,5 @@
 		- let passwords expire
 		- disable before delete (just in case)
 
-- Change Admin and gues accounts passwords and change names
-- 
+- Secure Default Accounts (User/Admin Accounts)
+	- change passwords
