@@ -94,4 +94,6 @@ Things to watch out for:
 	- nslookup for dns info
 - User Management:
 	- net user to manage users on machine
-		- to add user: net user username 
+		- to add user: net user username password /add
+		- to disable (not delete) a user net user  
+	- 
