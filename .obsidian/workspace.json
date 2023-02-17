@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11f1966fa2931f1e",
+        "id": "e67485aa28b97da6",
         "type": "tabs",
         "children": [
           {
-            "id": "d34940361d1ff7f0",
+            "id": "0d71f922b2ed7480",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,8 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d34940361d1ff7f0",
+  "active": "0d71f922b2ed7480",
   "lastOpenFiles": [
+    "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
     "Windows Security/Windows Security Hardening.md",
     "Windows Security/daniel_plaza_intro_to_sys_hardening_windows_v1_0.pdf",
     "Windows Security/Window Security Checklist.md",
