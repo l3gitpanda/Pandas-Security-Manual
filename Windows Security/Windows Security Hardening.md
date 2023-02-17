@@ -53,8 +53,8 @@
 	- make sure there are no weird unnecessary tasks
 	- triggers and actions help with categorizing 
 	- no description = investigate further
-- Clean Services
-	- research services, guides of services needed on different versions of windows
+- Services
+	- research services, guides of services needed on different versions of windows and remove all unnecessary ones
 	- 
 
 
