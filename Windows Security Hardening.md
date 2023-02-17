@@ -27,9 +27,11 @@
 		- disable before delete (just in case)
 
 - Secure Default Accounts (User/Admin Accounts)
-	- change/set passwords
-	- change usernames
-	- configure properties
-	- disable
+	- #mmc > computer management > local users and groups > users
+		- change/set passwords
+		- change usernames
+		- configure properties
+		- disable
 
-- 
+- Add account lockout threshold
+	- 
