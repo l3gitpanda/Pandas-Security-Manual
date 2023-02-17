@@ -43,6 +43,8 @@
 
 # Application Security
 
-- Remove unneeded software
-- Update applications - winget upgrade --all
+- Remove unneeded software 
+	- use #rev
+- Update applications 
+	- winget upgrade --all
 - 
