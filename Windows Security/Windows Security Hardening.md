@@ -82,13 +82,16 @@ Things to watch out for:
 - **Split Infection** – The virus is split into various parts and proceeds to be stored in various areas, when executed, the virus will switch to different places, executing the code.
 
 # Command Line Tips:
-- General
+- General:
 	- > outputs to something
 	- findstr = grep
 	- tasklist = task info
 	- you can echo variables to easily see them
-- Networking
+- Networking:
 	-  ipconfig /all to show all interfaces info
 	- ipconfig /flushdns to flush dns
 		- Useful if dns cache is poisoned or changed
-- User Manag
+	- nslookup for dns info
+- User Management:
+	- net user to manage users on machine
+		- to add user: net user username 
