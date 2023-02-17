@@ -22,4 +22,6 @@
 
 - Remove unnecessary accounts  
 	- #mmc > computer management > local users and groups > users
-		- mainly make sure password never expires but 
+		- let user change passwords
+		- let passwords expire
+		- disable before delete (just in case)
