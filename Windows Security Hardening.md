@@ -12,6 +12,7 @@
 
 ### Lower Attack Surface #mmc: 
 	mmc > local users and groups
-- Limit Administrator Accounts 
+- Limit Administrator Accounts / Manage User Roles 
 - Remove unnecessary accounts  
 - Update passwords 
+- 
