@@ -23,8 +23,12 @@
             "id": "040fa22326f5ab2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Palo Alto Networks/Defaults/PA 3050 Defaults.md"
+              }
             }
           }
         ],
@@ -162,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a07a7c966320541b",
+  "active": "040fa22326f5ab2e",
   "lastOpenFiles": [
+    "Palo Alto Networks/Untitled.md",
     "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
     "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
     "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
