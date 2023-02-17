@@ -97,6 +97,7 @@ Things to watch out for:
 	- **nslookup** for dns info
 	- **net sessions** to view local computer connections (DISCONNECT ANYTHING NOT AUTHORIZED)
 		- net session \\computername /del to delete a session
+	- 
 	- **netstat** used to view network statistics
 		- **netstat** (seconds) to have the netstat auto update
 			- eg netstat 5
