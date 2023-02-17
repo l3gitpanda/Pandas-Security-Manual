@@ -4,8 +4,11 @@
 	- snap ins: file>add snap ins
 	- win + r mmc
 - local security policy #lsp - windows policy changing and implementation
-- process explorer #procexp - more detailed task manager
+- process explorer #procexp - more detailed task manager 
+	- https://download.sysinternals.com/files/ProcessExplorer.zip
+- 
 - network miner - (not needed mostly for just network logging see #netstat for other methods)
+	- 
 
 ### Update Passwords: #mmc > local users and groups
 - Max enforce password history
