@@ -33,5 +33,5 @@
 		- configure properties
 		- disable
 
-- Add account lockout threshold
-	- 
+- Account lockout threshold
+	- #lsp > Account Policies > Account Lockout Policy > Account lockout threshold 
