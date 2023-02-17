@@ -10,7 +10,8 @@
 - max password age: 45
 - DISABLE REVERSIBLE ENCRYPTIONNNNNNN
 
-### Lower Attack Surface:
+### Lower Attack Surface #mmc: 
+	mmc > local users and groups
 - Limit Administrator Accounts 
-- Remove unnecessary accounts  #mmc > local users and groups
-- Update passwords #mmc > local users and groups
+- Remove unnecessary accounts  
+- Update passwords 
