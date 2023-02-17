@@ -98,6 +98,9 @@ Things to watch out for:
 	- **net sessions** to view local computer connections (KEEP THIS ALWAYS OPEN AND DISCONNECT ANYTHING NOT AUTHORIZED)
 		- net session \\computername /del to delete a session
 	- **netstat** used to view network statistics
+		- **netstat** (seconds) to have the netstat auto update
+			- eg netstat 5
+			- eg with flags: netstat –ano –p tcp 5
 		- Flags:
 			- **-a** displays all tcp connections with tcp and udp ports open
 			- **-n** displays active tcp connections but the port numbers and addresses are expresse with numbers
