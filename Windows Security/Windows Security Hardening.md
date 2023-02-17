@@ -81,4 +81,7 @@ Things to watch out for:
 - **Split Infection** – The virus is split into various parts and proceeds to be stored in various areas, when executed, the virus will switch to different places, executing the code.
 
 # Command Line Tips:
-- ">"
+- General
+	- = outputs to something
+	- findstr = grep
+	- tasklist = 
