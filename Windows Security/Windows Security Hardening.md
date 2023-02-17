@@ -100,5 +100,5 @@ Things to watch out for:
 		- net localgroup administrators will show all users with administrator group
 	- net share to manage network storage shares
 		- net share sharename /del to delete shares. 
-	- net session to view local computer connections (KEEP THIS ALWAYS OPEN)
+	- net session \list to view local computer connections (KEEP THIS ALWAYS OPEN)
 		- net session \\computername /del to delete a session 
