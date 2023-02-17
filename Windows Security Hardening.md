@@ -35,3 +35,5 @@
 
 - Account lockout threshold
 	- #lsp > Account Policies > Account Lockout Policy > Account lockout threshold 
+		- 30 5 30?
+		- maybe if we set strong passwords it would waste red team time if they try to brute force without lockout threshold?? lmao 
