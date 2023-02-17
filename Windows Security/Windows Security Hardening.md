@@ -3,6 +3,7 @@
 - **Microsoft Management Console** #mmc - can be used for most windows admin tools  
 	- snap ins: file>add snap ins
 	- win + r mmc
+- **Event Viewer** #evntviwr - used for viewing windows logs 
 - **Local Security Policy** #lsp - windows policy changing and implementation
 - **Process Explorer** #procexp - more detailed task manager 
 	- https://download.sysinternals.com/files/ProcessExplorer.zip
@@ -13,7 +14,7 @@
 - **Windows Services** #winser - for managing windows services
 - **Malwarebytes** #malbyte - free antivirus
 - **Bitdefender** #bitdef - free antivirus
-- Event Viewer #evntviwr 
+- 
 
 ### Update Passwords: #mmc > local users and groups
 - Max enforce password history
