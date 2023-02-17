@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Palo Alto Networks/Defaults/Untitled.md",
+                "file": "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "040fa22326f5ab2e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Palo Alto Networks/Defaults/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Palo Alto Networks/Defaults/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Palo Alto Networks/Defaults/Untitled.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,8 +164,9 @@
   },
   "active": "a07a7c966320541b",
   "lastOpenFiles": [
-    "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
     "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
+    "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
+    "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
     "Windows Security/Windows Security Hardening.md",
     "Windows Security/daniel_plaza_intro_to_sys_hardening_windows_v1_0.pdf",
     "Windows Security/Window Security Checklist.md",
