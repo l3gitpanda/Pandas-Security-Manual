@@ -10,9 +10,10 @@
 	- https://download.revouninstaller.com/download/RevoUninstaller_Portable.zip
 - **Network Miner** - (not needed mostly for just network logging see #netstat for other methods)
 	- https://www.netresec.com/?download=NetworkMiner
-- Windows Services #winser - for managing windows services
-- Malwarebytes #malbyte - free antivirus
-- Bitdefender #bitdef - free antivirus
+- **Windows Services** #winser - for managing windows services
+- **Malwarebytes** #malbyte - free antivirus
+- **Bitdefender** #bitdef - free antivirus
+- Event Viewer #evntviwr 
 
 ### Update Passwords: #mmc > local users and groups
 - Max enforce password history
@@ -79,7 +80,6 @@ Things to watch out for:
 	- disable services related #mmc
 	- remove remote firewall entries 
 
-# 
 # Infection types:
 
 - **Appender Infection** – The virus is at the end of the program, eventually executing when the end of the file is executed
