@@ -12,13 +12,13 @@
 - DISABLE REVERSIBLE ENCRYPTIONNNNNNN
 
 ### Lower Attack Surface #mmc: 
+
 - Manage User Roles 
 	- #mmc > computer management > local users and groups > Users >  {User} properties > Member of
 		- Everyone should be either admin or user **nothing else unless told otherwise**
 
+- Secure User Properties
+	- #mmc > computer management > local users and groups 
 
 - Remove unnecessary accounts  
 	- #mmc > computer management > local users and groups > users
-
-- Secure User Properties
-	- #mmc > computer management > local users and groups
