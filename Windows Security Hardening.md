@@ -11,6 +11,6 @@
 - DISABLE REVERSIBLE ENCRYPTIONNNNNNN
 
 ### Lower Attack Surface:
-- Limit Administrator Accounts #
+- Limit Administrator Accounts 
 - Remove unnecessary accounts  #mmc > local users and groups
 - Update passwords #mmc > local users and groups
