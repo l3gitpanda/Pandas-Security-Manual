@@ -4,7 +4,8 @@
 	- snap ins: file>add snap ins
 	- win + r mmc
 - **Event Viewer** #evntviwr - used for viewing windows logs (security category is important) 
-- **Task Scheduler** #tskschdlr -  
+- **Task Scheduler** #tskschdlr -  execute applications/services/commands at certain times or events
+	- make sure they are somewhat secured
 - **Local Security Policy** #lsp - windows policy changing and implementation
 - **Process Explorer** #procexp - more detailed task manager 
 	- https://download.sysinternals.com/files/ProcessExplorer.zip
