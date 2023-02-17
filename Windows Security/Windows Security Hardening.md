@@ -104,3 +104,5 @@ Things to watch out for:
 	- **net share** to manage network storage shares
 		- net share sharename /del to delete shares.  
 	- **net accounts**
+		- Usage: net accounts /minpwlen:8 /maxpwage:90 /minpwage:15 /uniquepw:24
+	- net use 
