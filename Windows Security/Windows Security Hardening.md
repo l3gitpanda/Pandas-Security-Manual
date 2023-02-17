@@ -49,6 +49,7 @@
 
 - Remove unneeded software 
 	- use #revo to uninstall
+- Update Windows
 - Update applications 
 	- winget upgrade --all
 - 

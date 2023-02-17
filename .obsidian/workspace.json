@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Security Hardening.md",
+                "file": "Windows Security/Windows Security Hardening.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04debc7c6743759b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Security/Windows Security Hardening.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mmc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Security Hardening.md",
+                "file": "Windows Security/Windows Security Hardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Security Hardening.md",
+                "file": "Windows Security/Windows Security Hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Security Hardening.md"
+                "file": "Windows Security/Windows Security Hardening.md"
               }
             }
           }
@@ -146,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60135149d52d247b",
+  "active": "04debc7c6743759b",
   "lastOpenFiles": [
+    "Windows Security/Window Security Checklist.md",
+    "Windows Security/Windows Security Hardening.md",
     "Pandas/Windows System Hardening Notes.md"
   ]
 }
