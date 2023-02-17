@@ -72,6 +72,9 @@ Things to watch out for:
 - Turn Firewalls on
 - emergency: set firewall to block incomming and outgoing by default and then start blocking
 - Make sure that firewall service is up if issues occur. 
+- Configure/Clean Internet Properties
+- **DISABLE REMOTE ACCESS** 
+	- control panel > system and
 
 
 
