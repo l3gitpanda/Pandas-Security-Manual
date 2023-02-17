@@ -109,7 +109,6 @@ Things to watch out for:
 			- **-p** displays the protocol
 				- eg netstat -p tcp for tcp connections
 			- use all 3 together with -ano
-	- Configure/Clean Internet Properties
 - **User Management**:
 	- **net user** to manage users on machine
 		- to add user: net user username password /add
