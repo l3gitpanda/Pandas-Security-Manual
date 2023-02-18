@@ -5,4 +5,6 @@
 ## Encrypt all traffic
 - use https for management aswell as anything else that allows it
 - setup certificates................ gotta figure this out maybe
-- enable aes-
+- enable aes-ni cpu base acceleration
+
+## Restrict internal network access
