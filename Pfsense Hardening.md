@@ -14,7 +14,7 @@
 - only things that need rules should get them
 - https://docs.netgate.com/pfsense/en/latest/firewall/best-practices.html
 
-# U
+# Use snort
 
 ## Update Everything
 
