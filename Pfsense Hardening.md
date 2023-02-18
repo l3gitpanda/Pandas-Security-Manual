@@ -16,3 +16,5 @@
 
 ## Backups
 Not sure if this will be necessary but we also have boot environments.
+
+Chatgpt info: 
