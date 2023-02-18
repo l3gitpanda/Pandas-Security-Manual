@@ -16,7 +16,7 @@
 ## Update Everything
 
 ## Backups
-Not sure if this will be necessary but we also have boot environments.
+Not sure if this will be necessary but we also have boot environments if we have pfsense plus
 
 Tips:
 1.  Keep the pfSense box and all the services running on it up-to-date with the latest security patches and updates. Regularly check for new security advisories and apply patches as soon as possible.
