@@ -12,6 +12,9 @@
 ## Restrict internal network access
 - strict rules for ip addresses in the internal network
 - only things that need rules should get them
+- https://docs.netgate.com/pfsense/en/latest/firewall/best-practices.html
+
+# U
 
 ## Update Everything
 
