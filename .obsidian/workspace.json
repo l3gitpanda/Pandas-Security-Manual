@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d71f922b2ed7480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "040fa22326f5ab2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9dc8cac6ea8ea7ef",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,16 +120,6 @@
             }
           },
           {
-            "id": "04debc7c6743759b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Windows Security/daniel_plaza_intro_to_sys_hardening_windows_v1_0.pdf"
-              }
-            }
-          },
-          {
             "id": "8b2161a04b53868f",
             "type": "leaf",
             "state": {
@@ -165,12 +130,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 1002.5,
-    "collapsed": true
+    "width": 639.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,9 +148,10 @@
   },
   "active": "9dc8cac6ea8ea7ef",
   "lastOpenFiles": [
-    "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
-    "Palo Alto Networks/Untitled.md",
     "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
+    "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
+    "Pfsense Hardening.md",
+    "Palo Alto Networks/Untitled.md",
     "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
     "Windows Security/Windows Security Hardening.md",
     "Windows Security/daniel_plaza_intro_to_sys_hardening_windows_v1_0.pdf",
