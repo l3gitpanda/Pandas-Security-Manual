@@ -1,2 +1,3 @@
 # Restricting Admin Access 
-- Restrict ips of 
+- Restrict ips of who can access management aswell as admin account
+- 
