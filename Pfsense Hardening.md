@@ -1,6 +1,7 @@
 ## Restricting Admin Access 
 - Restrict ips of who can access management aswell as admin account
 - give strong passwords to admin account
+- Change username for admin if possible 
 
 ## Encrypt all traffic
 - use https for management aswell as anything else that allows it
