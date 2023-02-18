@@ -18,6 +18,7 @@
 ## Backups
 Not sure if this will be necessary but we also have boot environments.
 
+Tips:
 1.  Keep the pfSense box and all the services running on it up-to-date with the latest security patches and updates. Regularly check for new security advisories and apply patches as soon as possible.
     
 2.  Disable or block all unnecessary services, ports, and protocols that are not required for the functionality of the system. This minimizes the attack surface and reduces the risk of a successful attack.
