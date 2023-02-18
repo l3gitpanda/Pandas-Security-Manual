@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9dc8cac6ea8ea7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pfsense Hardening.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
+                "file": "Pfsense Hardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
+                "file": "Pfsense Hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Palo Alto Networks/Defaults/PA 3050 Defaults.md"
+                "file": "Pfsense Hardening.md"
               }
             }
           }
@@ -170,11 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "040fa22326f5ab2e",
+  "active": "9dc8cac6ea8ea7ef",
   "lastOpenFiles": [
+    "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
     "Palo Alto Networks/Untitled.md",
     "Palo Alto Networks/CCDC Threat Environment and Firewall best Practices.md",
-    "Palo Alto Networks/Defaults/PA 3050 Defaults.md",
     "Palo Alto Networks/PDF/Securing-Deploying-PANW-FW 2021 -Final.pdf",
     "Windows Security/Windows Security Hardening.md",
     "Windows Security/daniel_plaza_intro_to_sys_hardening_windows_v1_0.pdf",
