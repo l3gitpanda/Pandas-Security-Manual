@@ -12,3 +12,6 @@
 - only things that need rules should get them
 
 ## Update Everything
+
+## Backups
+Not sure if this will be necessary but we also have boot environments.
