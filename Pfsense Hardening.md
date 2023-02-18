@@ -9,4 +9,6 @@
 
 ## Restrict internal network access
 - strict rules for ip addresses in the internal network
-- only things that need rules sho
+- only things that need rules should get them
+
+## Update Everything
