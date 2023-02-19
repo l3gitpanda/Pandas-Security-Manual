@@ -8,5 +8,5 @@ We honestly didnt get to do really anything other than doing minor ssh hardening
 
 Message to WRCCDC/IVC:
 
-Although we probably didn't perform very well, I think it was an amazing experience to get exposure to real world scenarios. I am excited participate next year if the opportunity arises to try again and hopefully do a bit better after being able to prepare. I think it was very difficult to get into with no real experience with cyber competitions aswell as no guidance 
+Although we probably didn't perform very well, I think it was an amazing experience to get exposure to real world scenarios. I am excited participate next year if the opportunity arises to try again and hopefully do a bit better after being able to prepare. I think it was very difficult to get into with no real experience with cyber competitions aswell as no real guidance 
  
